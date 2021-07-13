@@ -908,13 +908,13 @@ input, select, textarea {
 			}
 
 			ul.icons li a {
-				border-radius: 40%;
+				border-radius: 38%;
 				box-shadow: inset 0 0 0 2px #ffffff;
 				display: inline-block;
-				height: 4.25rem;
-				line-height: 4.25rem;
+				height: 4.20rem;
+				line-height: 4.20rem;
 				text-align: center;
-				width: 4.25rem;
+				width: 4.20rem;
 			}
 
 				ul.icons li a:hover {
