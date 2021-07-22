@@ -919,14 +919,14 @@ input, select, textarea {
 		#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
-			line-height: 7.3rem;
+			line-height: 7.2rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
 
-			#header .logo .fab:before {
-				font-size: 4rem;
-			}
+		#header .logo .fab {
+			font-size: 3.75rem;
+		}
 
 		#header .content {
 			border-style: solid;
@@ -1067,13 +1067,13 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 2.75rem;
-				height: 2.75rem;
-				line-height: 2.75rem;
+				width: 4.75rem;
+				height: 4.75rem;
+				line-height: 6.5rem;
 			}
 
-				#header .logo .icon:before {
-					font-size: 2.75rem;
+				#header .logo .fab {
+					font-size: 3.75rem;
 				}
 
 			#header .content .inner {
